@@ -80,17 +80,13 @@ New users can create an account by providing name, email, and password.
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](screenshots/login.png)
+Click on the links below to view screenshots of the application:
 
-### Signup Screen
-![Signup Screen](screenshots/signup.png)
-
-### Dashboard Screen
-![Dashboard Screen](screenshots/dashboard.png)
-
-### Profile Screen
-![Profile Screen](screenshots/profile.png)
+- **[Login Screen](screenshots/signin.png)** - User login interface
+- **[Signup Screen](screenshots/signup.png)** - New user registration
+- **[Dashboard Screen](screenshots/dashboard1.png)** - Main todo management interface
+- **[Dashboard Screen](screenshots/dashboard2.png)** - Create new todo interface
+- **[Profile Screen](screenshots/profile.png)** - User profile and settings
 
 ## API Integration
 
@@ -108,4 +104,3 @@ Endpoints used:
 ## Note
 
 This app uses in-memory storage on the backend, so data will be lost when the server restarts. For production, connect to a real database like MongoDB or PostgreSQL.
-
